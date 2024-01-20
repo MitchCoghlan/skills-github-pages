@@ -1,4 +1,3 @@
 ---
-title: Welcome to my blog
+title: Word of Mitch Coghlan
 ---
-
